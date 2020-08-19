@@ -1,6 +1,7 @@
 venv
 .idea
 out
-src
+dist
 __pycache__
 *.iml
+notebook/.ipynb_checkpoints
