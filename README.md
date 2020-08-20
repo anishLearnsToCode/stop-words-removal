@@ -7,6 +7,8 @@ __Natural Language Processing - Dr. Seba Susan__
 [[Input 📄]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/assets/resume.txt) 
 [[Code to print Output 📄]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/src/output.py)
 
+![stopwords-english](assets/stopwords-en.png)
+
 ## Overview
 1. [Introduction](#introduction)
 1. [Implementation](#implementation)
@@ -23,8 +25,6 @@ preprocessing pipeline in any NLP project:
 1. Removing all Punctuations from the selected tokens and retaining nly alphanumeric quantities
 1. Removing all Stopwords from the extracted tokens. 
 1. Stemming the Token into it's root with any Stemming Algorithm
-
-![stopwords-english](assets/stopwords-en.png)
 
 We have seen Stemming in detail in the 
 [Porter Stemmer Assignment](https://github.com/anishLearnsToCode/porter-stemmer)
