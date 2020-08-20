@@ -6,6 +6,7 @@ __Natural Language Processing - Dr. Seba Susan__
 [[Running Notebook 📔]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/notebook/removing-stop-words.ipynb) 
 [[Input 📄]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/assets/resume.txt) 
 [[Code to print Output 📄]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/src/output.py)
+[[Project Report 🌟]]()
 
 ![stopwords-english](assets/stopwords-en.png)
 
@@ -52,7 +53,7 @@ that the words we removed never added a lot of meaning to our text. Large compan
 will want to search them using keywords such as Java, Python, web Development etc. and words such as 
 i, me, mine are superfluous in nature.
 
-So, by removing these stopwords we have actually make our corpus more information dense and any other further task we 
+So, by removing these stopwords we have actually made our corpus more information dense and any other further task we 
 might perform such as converting these words into embeddings or any other Machine Learning/Deep Learning task will now 
 be done on a smaller Corpus and hence would run faster.
 
