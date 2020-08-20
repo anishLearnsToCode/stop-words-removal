@@ -20,19 +20,19 @@ preprocessing pipeline in any NLP project:
 1. Stemming the Token into it's root with any Stemming Algorithm
 
 We have seen Stemming in detail in the 
-[Porter Stemmer Assignment]()
+[Porter Stemmer Assignment](https://github.com/anishLearnsToCode/porter-stemmer)
 & in this notebook we see how to extract tokens, remove punctuation and removing stopwords. 
 
 ## Implementation
 The implementation uses the popular 
-[nltk]()
+[nltk](https://www.nltk.org/)
 (Natural Language Processing Toolkit) for removing stopwords, tokenization and stemming.
 The entire process has been sown in detail in
-[this Jupyter Notebook]().
+[this Jupyter Notebook](https://github.com/anishLearnsToCode/stop-words-removal).
 
 ## Results
 The input for this program was my Resume in text format that can be viewed
-[here: resume.txt](). 
+[here: resume.txt](assets/resume.txt). 
 The output is a stream of tokens (words) that has been converted to lowercase and also
 the punctuations and stopwords have been removed. The output has been saved as pickle
 file and can be loaded into any Python file (or Jupyter Notebook) and can be viewed
