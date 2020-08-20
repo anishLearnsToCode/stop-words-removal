@@ -24,6 +24,8 @@ preprocessing pipeline in any NLP project:
 1. Removing all Stopwords from the extracted tokens. 
 1. Stemming the Token into it's root with any Stemming Algorithm
 
+![stopwords-english](assets/stopwords-en.png)
+
 We have seen Stemming in detail in the 
 [Porter Stemmer Assignment](https://github.com/anishLearnsToCode/porter-stemmer)
 & in this notebook we see how to extract tokens, remove punctuation and removing stopwords. 
