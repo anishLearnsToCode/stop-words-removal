@@ -22,13 +22,13 @@ Normally the following steps are very commonly and ubiquitously implemented as p
 preprocessing pipeline in any NLP project:
 1. Converting the entire corpus into a common case (either lowercase or uppercase)
 1. Extracting words/tokens from the corpus
-1. Removing all Punctuations from the selected tokens and retaining nly alphanumeric quantities
+1. Removing all Punctuations from the selected tokens and retaining only alphanumeric quantities
 1. Removing all Stopwords from the extracted tokens. 
 1. Stemming the Token into it's root with any Stemming Algorithm
 
 We have seen Stemming in detail in the 
 [Porter Stemmer Assignment](https://github.com/anishLearnsToCode/porter-stemmer)
-& in this notebook we see how to extract tokens, remove punctuation and removing stopwords. 
+& in this notebook we see how to extract tokens, remove punctuation and remove stopwords. 
 
 ## Implementation
 The implementation uses the popular 
@@ -71,10 +71,15 @@ Install required packages
 pip install nltk
 pip install pickle
 ```
-Run the `driver.py` file to see stream of tokens as output and then run the `output.py` file to see a pretty 
-(well formatted) output of the resume. 
+Run the `driver.py` file to see stream of tokens as output and then run the `analytis.py`
+file to see various analytics on the prepared token list.
 ```bash
 python driver.py
+python analytics.py
+```
+
+Run the `output.py` file to see a pretty (well formatted) output of the resume. 
+```bash
 python output.py
 ```
 
