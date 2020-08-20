@@ -12,6 +12,7 @@ __Natural Language Processing - Dr. Seba Susan__
 1. [Implementation](#implementation)
 1. [Results](#results)
 1. [Analytics & Discussions](#analytics--discussion)
+1. [Running The Project Locally](#running-project-locally)
 1. [Bibliography](#bibliography)
 
 ## Introduction
