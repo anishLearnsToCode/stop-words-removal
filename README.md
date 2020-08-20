@@ -3,7 +3,7 @@ __Anish Sachdeva (DTU/2K16/MC/013)__
 
 __Natural Language Processing - Dr. Seba Susan__
 
-[[Running Notebook 📔]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/notebook/removing-stop-words.ipynb) 
+[[Running Notebook 📘]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/notebook/removing-stop-words.ipynb) 
 [[Input 📄]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/assets/resume.txt) 
 [[Code to print Output 📄]](https://github.com/anishLearnsToCode/stop-words-removal/blob/master/src/output.py)
 [[Project Report 🌟]](assets/nlp-assignment-3.pdf)
